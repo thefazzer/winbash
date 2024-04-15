@@ -1,0 +1,6 @@
+POH,LXP,Paymaster,id,minitoolkitRank,trustlabsRank,address,balance,volume,fee,interactionCount,count_contract,bridge_count,bridge_volume_usd,nft_mint,days,weeks,months,firstTransactionDate,lastTransactionDate,zkliteInteractions,zkliteLastActivity
+False,False,False,1,-,-,0xf5c9d989cffa66c26d1bfd0bf0a182f93e3510e4,5.856488586906294,10.417472000000062,4.3310447767860005e-05,1,1,0,0,0,1,1,1,31 day,31 day,-,-
+False,False,False,8,-,-,0xBAD01a04Cc9Ed7A4D8AF51BcaA7E9aCF26dc673B,10.948449509055672,33.56446326590081,1.5892101973174438e-05,3,3,0,0,0,2,2,1,36 day,35 day,-,-
+False,False,False,14,-,-,0x6c00A1C234Cd8c9142B3FdF8375543A9809B3f12,2.853438200157121,10.417472000000023,7.957701115728e-05,1,1,0,0,0,1,1,1,27 day,27 day,-,-
+False,False,False,22,-,-,0xF9A0806cff4b84D161DFbf4aE7Bb9b9110D50fd6,2.848796376539777,0.7712000944,3.2231632324320004e-07,1,1,0,0,0,1,1,1,37 day,37 day,-,-
+False,False,False,24,-,-,0xe17ef730812d6863E3519081D748DC830Af7Aeb5,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,-,-
